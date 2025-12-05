@@ -107,7 +107,7 @@ Margin & pricing review
 If profit-to-sales ratio is low, evaluate pricing, reduce non-value costs (manufacturing inefficiency, high shipping), or reallocate high-margin products to priority channels.
 
 Monitor correlation-driven risks
-If the correlation between manufacturing lead time and shipping times is strong, treat delays end-to-end: reducing one part alone may not help—coordinate across manufacturing, warehousing, and logistics.
+If the correlation between manufacturing lead time and shipping times is strong, treat delays end-to-end: reducing one part alone may not help coordinate across manufacturing, warehousing, and logistics.
 
 # Conclusion
 By running the provided queries you generate a comprehensive snapshot of supply chain performance: volume, lead time, cost, quality and logistics. The SQL outputs enable you to identify which suppliers or transport modes cause delays or cost overruns, which products risk stockouts, and where quality issues reduce profitability. Immediate improvements should focus on mitigating stock risk, reducing defect rates through supplier/manufacturing interventions, and optimizing transport choices to improve cost-to-benefit. Operationalizing these insights in a dashboard and closing the loop with supplier/operations teams will translate analysis into measurable business improvements.
